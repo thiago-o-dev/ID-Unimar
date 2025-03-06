@@ -1,14 +1,20 @@
+# TOC
+(botar uma toc aqui)
+
 # Introdução
 
 Este repositório serve para anotações coletivas de todas as matérias, visando sua compatibilidade com a ferramenta **Obsidian**.
 
 # Plugins recomendados
 
-### Plugin exemplo 1
+### PlantUML
 adadada
 
 ### Plugin exemplo 2
 abababa
+# Como abrir o projeto com:
+## Obsidian:
+1. Instale o [GIT Bash](https://git-scm.com/downloads/win)
 
 # Modelo para contribuir
 
@@ -23,6 +29,3 @@ Utilizaremos o método **[Zettelkasten](https://escritaselvagem.com.br/escrita-c
 	Segue aqui um [[! Template de Temporárias]] opcional.
 
 Não se preocupe com a organização dessas notas permanentes ou temporárias, elas podem conter qualquer informação que seja considerada útil, visto que depois sejam mencionadas no index de cada matéria.
-
-# Como abrir o projeto com:
-## Obsidian:
